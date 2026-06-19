@@ -1,0 +1,61 @@
+{
+    "kitaplar": {
+        "97801": {
+            "isbn": "97801",
+            "baslik": "Nutuk",
+            "yazar": "Mustafa Kemal Atatürk",
+            "adet": 3,
+            "odunc_verilen": 1
+        },
+        "97802": {
+            "isbn": "97802",
+            "baslik": "Çalıkuşu",
+            "yazar": "Reşat Nuri Güntekin",
+            "adet": 1,
+            "odunc_verilen": 1
+        },
+        "97803": {
+            "isbn": "97803",
+            "baslik": "Kürk Mantolu Madonna",
+            "yazar": "Sabahattin Ali",
+            "adet": 2,
+            "odunc_verilen": 0
+        }
+    },
+    "uyeler": {
+        "1": {
+            "uye_id": "1",
+            "isim": "Yamur Ertaş",
+            "eposta": "yamur@gmail.com",
+            "odunc_alinanlar": [
+                "97801"
+            ]
+        },
+        "2": {
+            "uye_id": "2",
+            "isim": "Esin Öztürk",
+            "eposta": "esin@gmail.com",
+            "odunc_alinanlar": [
+                "97802"
+            ]
+        },
+        "101": {
+            "uye_id": "101",
+            "isim": "Ahmet Yılmaz",
+            "eposta": "ahmet@gmail.com",
+            "odunc_alinanlar": []
+        },
+        "102": {
+            "uye_id": "102",
+            "isim": "Ayşe Demir",
+            "eposta": "ayse@gmail.com",
+            "odunc_alinanlar": []
+        },
+        "103": {
+            "uye_id": "103",
+            "isim": "Mehmet Kaya",
+            "eposta": "mehmet@gmail.com",
+            "odunc_alinanlar": []
+        }
+    }
+}
