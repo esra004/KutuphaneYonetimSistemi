@@ -63,4 +63,7 @@ KutuphaneYonetimSistemi/
 ├── main.py                  # Tkinter arayüz tasarımı ve uygulamanın ana giriş noktası
 ├── kutuphane_verileri.json  # Verilerin kalıcı olarak saklandığı veri dosyası
 ├── .gitignore               # __pycache__ gibi geçici dosyaların engelleme haritası
-└── README.md                # Proje tanıtım ve kullanım kılavuzu 
+└── README.md                # Proje tanıtım ve kullanım kılavuzu
+
+# Proje Akış Şeması
+![Proje Akış Şeması](akis_semasi.png)
