@@ -65,5 +65,9 @@ KutuphaneYonetimSistemi/
 ├── .gitignore               # __pycache__ gibi geçici dosyaların engelleme haritası
 └── README.md                # Proje tanıtım ve kullanım kılavuzu
 
-# Proje Akış Şeması
+---
+
+### 📊 Proje Akış Şeması
+Görsel aşağıda açılmadıysa **[Buraya Tıklayarak Akış Şemasını Görebilirsiniz](akis_semasi.png)**
+
 ![Proje Akış Şeması](akis_semasi.png)
